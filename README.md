@@ -1,6 +1,6 @@
 # HLStools
 
-This repository uses a benchmark suite of 208 programs. These programs have been extracted from the AnghaBench suite[1], a publicly ([link](http://cuda.dcc.ufmg.br/angha/))  available collection of over one million C programs, mined from open-source repositories. These programs are not executable; however, they are compilable. In other words, any standard C compiler, e.g., GCC, LLVM or ICC, should be able to recognize each program as an independent compilation unit.
+This repository uses a benchmark suite of 214 programs. These programs have been extracted from the AnghaBench suite[1], a publicly ([link](http://cuda.dcc.ufmg.br/angha/))  available collection of over one million C programs, mined from open-source repositories. These programs are not executable; however, they are compilable. In other words, any standard C compiler, e.g., GCC, LLVM or ICC, should be able to recognize each program as an independent compilation unit.
 
 ## Program Filtering
 
